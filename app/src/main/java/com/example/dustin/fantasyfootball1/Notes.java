@@ -13,6 +13,8 @@ public class Notes {
 
         create an activity to test stuff (database stuff must be tested)
 
+        I just installed Android Studio on my new mac. this is just a commit and push test
+
 
     */
 
